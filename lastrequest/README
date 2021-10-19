@@ -1,0 +1,2 @@
+Created by: Christian Facundus
+Command to run program: hadoop jar lastrequest.jar lastrequest.LastRequest weblog lastrequest
